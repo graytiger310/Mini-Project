@@ -5,3 +5,4 @@ dlib
 pillow
 fastapi
 uvicorn
+psycopg2-binary
